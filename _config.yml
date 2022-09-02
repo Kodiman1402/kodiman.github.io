@@ -47,7 +47,7 @@ social:
     # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/Kodiman1402    # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/opfeffer
+    - https://www.facebook.com/opfeffer
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
@@ -73,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url

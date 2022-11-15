@@ -11,3 +11,5 @@ Created by Kodiman with 💛
 ► Facebook https://www.facebook.com/KodimansForum/facebook
 
 ► GitHub https://github.com/Kodiman1402/github
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4FRK7U)

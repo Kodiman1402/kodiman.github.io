@@ -12,4 +12,6 @@ Created by Kodiman with 💛
 
 ► GitHub https://github.com/Kodiman1402/github
 
+► Telegram https://t.me/Kodiman
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4FRK7U)
